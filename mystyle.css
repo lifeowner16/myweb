@@ -13,9 +13,17 @@ body {
 		    font-weight: normal;
 		      margin-top: 5px;
 	      }
+ 
 
 	      /* Applies to all elements with <... class="someclass"> specified. */
 	      .someclass { color: red; }
 
 	      /* Applies to the element with <... id="someid"> specified. */
 	      #someid { color: green; }
+
+
+
+	      <details>
+	          <summary>Mauli Chai Center</summary>
+		      <p>These are the additional details.</p>
+		      </details>
